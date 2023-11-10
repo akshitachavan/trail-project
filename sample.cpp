@@ -5,7 +5,7 @@ public:
         //process
 
 
-
+        cout<<"Code from b2"
 
         
         return v;
